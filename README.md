@@ -11,3 +11,17 @@ Here're some of the project's best features:
 *   Use and configuration of Residual U-blocks
 *   Construct U2-Net architecture using Residual U-blocks
 *   Production of Salience probability maps of an input image as side outputs of U2-Net
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Python (Pandas & Numpy)
+*   PIL
+*   Matplotlib
+*   Seaborn
+*   Scikit-image(Skimage)
+*   Pytorch
+*   Torchvision
