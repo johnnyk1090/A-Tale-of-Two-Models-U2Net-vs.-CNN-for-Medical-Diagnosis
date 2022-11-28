@@ -22,9 +22,12 @@ Here're some of the project's best features:
 Technologies used in the project:
 
 *   Python (Pandas & Numpy)
-*   PIL
+*   glob
+*   Mahotas
+*   Keras
 *   Matplotlib
 *   Seaborn
+*   Scikit-Learn
 *   Scikit-image(Skimage)
 *   Pytorch
 *   Torchvision
