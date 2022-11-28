@@ -15,7 +15,7 @@ Here're some of the project's best features:
 *   Construction of U2-Net architecture using Residual U-blocks
 *   Production of Salience probability maps of input images as side outputs of U2-Net
 *   Model in CUDA-GPU
-
+*   Dropout applied on CNN Model
   
   
 <h2>💻 Built with</h2>
