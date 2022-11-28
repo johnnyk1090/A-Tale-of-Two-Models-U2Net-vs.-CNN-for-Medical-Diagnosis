@@ -1,2 +1,2 @@
- Download the pre-trained parameters from https://drive.google.com/drive/folders/1xzIYIwYjg3ffNKjvSy4AErcPTCC1PB-d
- Use your working directory as a path on the section of load_state_dict
+ Download the test and train folders from https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset?resource=download
+ Use your working directory as a path under the method get_data 
