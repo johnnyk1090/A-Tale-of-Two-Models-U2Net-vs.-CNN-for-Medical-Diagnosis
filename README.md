@@ -13,6 +13,7 @@ Here're some of the project's best features:
 *   Usage and configuration of Residual U-blocks
 *   Construction of U2-Net architecture using Residual U-blocks
 *   Production of Salience probability maps of input images as side outputs of U2-Net
+*   Load Pre-trained Model Parameters
 *   Model in CUDA-GPU
 
   
