@@ -28,6 +28,6 @@ Technologies used in the project:
 *   Matplotlib
 *   Seaborn
 *   Scikit-Learn
-*   Scikit-image(Skimage)
+*   Scikit-Learn Classifiers
 *   Pytorch
 *   Torchvision
