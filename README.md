@@ -1,7 +1,7 @@
 <h1 align="center" id="title">U2Net, CNN & Classical model comparison for Medical Diagnosis</h1>
 
-<p id="description">The following project will attempt to create the ideal model for finding patterns into X-ray photos in order to diagnose possible disease. We will test various classification methods, including CNN & U2Net (a State-Of-The-Art Image processing method of Postdoctoral Researcher Xuebin Qin) and try to extract valuable features to identify if the patient has a potential disease such as Covid-19 or pneumonia.</p> 
-<p Image Dataset will be used from Kaggle.</p>  
+<p id="description">The following project will attempt to create the ideal model for finding patterns into X-ray photos in order to diagnose possible disease. We will test various classification methods, including CNN & U2Net (a State-Of-The-Art Image processing method of Postdoctoral Researcher Xuebin Qin) and try to extract valuable features to identify if the patient has a potential disease such as Covid-19 or pneumonia. 
+<p Image Dataset will be used from Kaggle.
 <p The final app will be containerized.</p>
 
 
