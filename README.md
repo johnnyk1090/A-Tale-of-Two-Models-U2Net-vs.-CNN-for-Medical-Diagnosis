@@ -10,9 +10,9 @@ The whole prodecure will apply State-Of-The-Art Image processing</p>
 
 Here're some of the project's best features:
  
-*   Use and configuration of Residual U-blocks
-*   Construct U2-Net architecture using Residual U-blocks
-*   Production of Salience probability maps of an input image as side outputs of U2-Net
+*   Usage and configuration of Residual U-blocks
+*   Construction of U2-Net architecture using Residual U-blocks
+*   Production of Salience probability maps of input images as side outputs of U2-Net
 *   Model in CUDA-GPU
 
   
