@@ -1,4 +1,4 @@
-<h1 align="center" id="title">U2Net, CNN, classical model comparison for Medical Diagnosis</h1>
+<h1 align="center" id="title">U2Net, CNN & Classical model comparison for Medical Diagnosis</h1>
 
 <p id="description">The following project will attempt to create a model for finding patterns into X-ray photos in order to diagnose possible disease. We will test various classification methods (including CNN & U2Net) and try to extract valuable features to identify if the patient has a potential disease such as Covid-19 or pneumonia. The final app will be containerized.
 
