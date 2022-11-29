@@ -16,8 +16,13 @@ Here're some of the project's best features:
 *   Production of Salience probability maps of input images as side outputs of U2-Net
 *   Model in CUDA-GPU
 *   Dropout applied on CNN Model
-  
-  
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Download spec-file.txt</p>
+
+<p>2. Follow the instructions into Conda_Virtual_Env.txt</p>
+    
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
