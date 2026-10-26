@@ -45,4 +45,4 @@ Then open [`U2Net_and_CNN_model_comparison_for_Medical_Diagnosis.ipynb`](U2Net_a
 
 <br>
 
-<p align="center"><sub>Part of the work of <a href="https://github.com/johnnyk1090">Giannis Konteas</a> · end-to-end data science</sub></p>
+<p align="center"><sub>Part of the work of <a href="https://github.com/johnnyk1090">John Konteas</a> · end-to-end data science</sub></p>
